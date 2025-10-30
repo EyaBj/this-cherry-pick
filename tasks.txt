@@ -1,2 +1,3 @@
 Project Tasks
 Task 1: Setup repository
+Task 2: Write documentation
